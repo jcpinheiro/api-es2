@@ -7,4 +7,3 @@ before_install:
 deploy:
   provider: heroku
   app: $APP
-  on: production
