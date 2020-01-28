@@ -1,7 +1,8 @@
 package com.example.estoque;
 
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
+
+import org.junit.Assert;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
@@ -9,7 +10,7 @@ class EstoqueApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.assertTrue(true);
+        Assert.assertTrue(true);
     }
 
 }
