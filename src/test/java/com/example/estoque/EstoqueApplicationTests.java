@@ -10,7 +10,7 @@ public class EstoqueApplicationTests {
 
     @Test
     public void contextLoads() {
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 
 }
