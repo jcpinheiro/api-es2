@@ -2,7 +2,7 @@
 
 # API REST do Sistema de Controle de Estoque
 
-### Reference Documentation
+## Documentação 
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
