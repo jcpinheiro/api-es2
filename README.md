@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.com/jcpinheiro/api-es2.svg?branch=master)](https://travis-ci.com/jcpinheiro/api-es2)
-
-# API REST do Sistema de Controle de Estoque
+# API REST do Sistema de Controle de Estoque - versão 2
 
 ### Reference Documentation
 For further reference, please consider the following sections:
