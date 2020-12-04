@@ -3,8 +3,7 @@
 # API REST do Sistema de Controle de Estoque
 
 ## Documentação 
-For further reference, please consider the following sections:
-
+Para referência futura, considere as seguintes seções:
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.0.M1/maven-plugin/)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.3.0.M1/reference/htmlsingle/#boot-features-developing-web-applications)
